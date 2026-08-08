@@ -1,4 +1,6 @@
 # Exchange Rate API 💱
+[![CI](https://github.com/RezaSbu/Exchange_Rate_Api/actions/workflows/ci.yml/badge.svg)](https://github.com/RezaSbu/Exchange_Rate_Api/actions/workflows/ci.yml)
+
 
 A lightweight **FastAPI** service that scrapes **live currency prices** and computes **exchange rates** between any two currencies.
 
